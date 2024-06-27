@@ -3,16 +3,11 @@
 ***It's a small attempt to utilize the technology for the sake of humanity by predicting the figures roughly so that we can do the needful to counter the situation.***
 
 ***You can predict for any number of days and view predictions for any country that you selected from the given list.***
-****************************************************************************************************************************************
-
-****************************************************************************************************************************************
 1. Unauthorized Use Of This Code is Strictly Prohibited For Commercial Use.  
 2. Use of this repository is for Self-Learning Purpose is considered.
 3. Replication of the repository by any other third party except authorized members is act of offence.
 
 Credentials:
-
-
       1. Vatsal Dinesh Rajgor (https://github.com/rv20197)
       2. Ajinkya Karbhari Porje (https://github.com/ajinkyaporje)
       3. Jibran Shoukat Mujawar (https://github.com/mujawarjibran)
@@ -39,7 +34,3 @@ In his opening remarks at the March 3 media briefing on Covid-19, WHO Director-G
 **Since, COVID-19 is a Global Outbreak, We have to fight this Pandemic by supporting Government and Maintaining the Social Distancing Norms and following all the precautionary measures for maintaining healty life style.**
 
 ***STAY HOME AND STAY SAFE***
-
-Reference
-1. https://www.worldometers.info/coronavirus/#countries
-2. https://github.com/CSSEGISandData/COVID-19
